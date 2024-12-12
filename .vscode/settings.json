@@ -1,0 +1,7 @@
+{
+    "scm.providerCountBadge": "visible",
+    "files.exclude": {
+        "**/.DS_Store": false,
+        "**/.git": false
+    }
+}
